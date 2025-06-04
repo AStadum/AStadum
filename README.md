@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anders! <br/><a href="https://github.com/astadum">Product and Security Manager</a>, <a href="https://www.linkedin.com/in/andersstadum/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Anders! <br/><a href="https://github.com/astadum">Product and Security Manager</a>, <a href="https://www.linkedin.com/in/andersstadum/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
